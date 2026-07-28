@@ -1,4 +1,4 @@
-# Hi there, I'm Bhuvana 
+# Hi there, I'm Bhuvana!!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -90,7 +90,6 @@ Explainable AI system that identifies structural shifts in Indian agricultural p
 - Statistics
 - Explainable AI
 - Data Visualization
-- GATE DA Preparation
 
 ---
 
